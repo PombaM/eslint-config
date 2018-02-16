@@ -1,4 +1,5 @@
 # @pomba/eslint-config
+My eslint config 😋
 
 # Install
 Whatever package manager you have, I'm sure you know how to install a nodejs package.
